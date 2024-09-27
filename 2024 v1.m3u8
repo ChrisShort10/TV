@@ -1,7 +1,7 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="Chilevision.cl" tvg-name="Chilevision" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", Chilevision
+#EXTINF:-1 tvg-id="Chilevision.cl" tvg-name="Chilevision" group-title="Chile" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", Chilevision
 http://191.52.214.5:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/1153_MEGA.png", Mega
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" group-title="Chile" tvg-logo="https://cdn.m3u.cl/logo/1153_MEGA.png", Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/1153_Lared.png", La Red
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?
@@ -13,6 +13,8 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="13Festival" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", 13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 tvg-id="UCV.cl" tvg-name="UCV" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", UCV
+https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="8" tvg-name="TNT Novelas" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", TNT Novelas
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/303721
 #EXTINF:-1 tvg-id="9" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", TV+
@@ -31,6 +33,9 @@ http://bgtv.xyz/play/play-941.php?ul=480&token=asdasdasdasdasd
 http://my.streamerstv.com:25461/Bob123/Bob123/440
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", Telefe
 http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ7RwoDGuGu57Bx/ts
+#EXTINF:-1 tvg-id="ChavoTV" tvg-name="ChavoTV" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", ChavoTV
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+
 
 
 
