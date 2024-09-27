@@ -1,35 +1,35 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="Chilevision.cl" tvg-name="Chilevision" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", Chilevision | CL
+#EXTINF:-1 tvg-id="Chilevision.cl" tvg-name="Chilevision" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", Chilevision
 http://191.52.214.5:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/1153_MEGA.png", Mega | CL
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/1153_MEGA.png", Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/1153_Lared.png", La Red | CL
+#EXTINF:-1 tvg-id="LaRed.cl" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/1153_Lared.png", La Red
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?
-#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1153_C13.png", Canal 13 | CL
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/1153_C13.png", Canal 13
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
-#EXTINF:-1 tvg-id="5" tvg-name="13C" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", 13 Cultura | CL
+#EXTINF:-1 tvg-id="5" tvg-name="13C" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", 13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="13E" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", 13 Entretencion | CL
+#EXTINF:-1 tvg-id="6" tvg-name="13E" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", 13 Entretencion
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="13Festival" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", 13 Festival | CL
+#EXTINF:-1 tvg-id="7" tvg-name="13Festival" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", 13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="TNT Novelas" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", TNT Novelas | LATAM
+#EXTINF:-1 tvg-id="8" tvg-name="TNT Novelas" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", TNT Novelas
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/303721
-#EXTINF:-1 tvg-id="9" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", TV+ | CL
+#EXTINF:-1 tvg-id="9" tvg-name="TV+" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", TV+
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="10" tvg-name="24 Horas" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", 24 Horas | CL
+#EXTINF:-1 tvg-id="10" tvg-name="24 Horas" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", 24 Horas
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="11" tvg-name="Las Estrellas" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", Las Estellas | MX
+#EXTINF:-1 tvg-id="11" tvg-name="Las Estrellas" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", Las Estellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="Nat Geo" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", Nat Geo | LATAM
+#EXTINF:-1 tvg-id="12" tvg-name="Nat Geo" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", Nat Geo
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3073
-#EXTINF:-1 tvg-id="13" tvg-name="MTV" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", MTV | US
+#EXTINF:-1 tvg-id="13" tvg-name="MTV" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", MTV
 http://bgtv.xyz/play/play-941.php?ul=69&token=asdasdasdasdasd
-#EXTINF:-1 tvg-id="14" tvg-name="Comedy Central" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", Comedy Central | LATAM
+#EXTINF:-1 tvg-id="14" tvg-name="Comedy Central" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", Comedy Central
 http://bgtv.xyz/play/play-941.php?ul=480&token=asdasdasdasdasd
-#EXTINF:-1 tvg-id="KXTX.us" tvg-name="Telemundo" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", Telemundo Int| US
+#EXTINF:-1 tvg-id="KXTX.us" tvg-name="Telemundo" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", Telemundo
 http://my.streamerstv.com:25461/Bob123/Bob123/440
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", Telefe | AR
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", Telefe
 http://daleplay.club/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ7RwoDGuGu57Bx/ts
 
 
